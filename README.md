@@ -115,9 +115,7 @@ See [`docs/command-reference.md`](docs/command-reference.md)
 
 ---
 
-## 📹 Demo Video
 
-▶ [YouTube Link](https://your-demo-video-link.com) *(Under 5 minutes)*
 
 ---
 
@@ -139,9 +137,9 @@ See [`docs/command-reference.md`](docs/command-reference.md)
 
 ## 🧑‍💻 Author
 
-**\[Your Name]**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**\[Ashutosh Yadav]**
+📧 [sidhart7860@gmail.com.com]
+🔗 [https://www.linkedin.com/in/ashutoshyadav17/]
 
 ---
 
